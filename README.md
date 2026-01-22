@@ -1,12 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=40&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Aman+Khan;Applied+LLM+Engineer+%7C+MLOps+Specialist;Building+the+Future+with+AI+%F0%9F%9A%80" alt="Header" />
-</div>
-
-<div align="center">
+  
+  # Aman Khan
   
   [![Profile Views](https://komarev.com/ghpvc/?username=Amankhan2370&color=blueviolet&style=for-the-badge)](https://github.com/Amankhan2370)
-  [![GitHub followers](https://img.shields.io/github/followers/Amankhan2370?style=for-the-badge&color=blueviolet&label=Followers)](https://github.com/Amankhan2370)
-  [![GitHub stars](https://img.shields.io/github/stars/Amankhan2370?style=for-the-badge&color=blueviolet&label=Stars)](https://github.com/Amankhan2370)
   
 </div>
 
