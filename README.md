@@ -89,9 +89,8 @@ I'm an **Applied LLM Engineer** and **MLOps Specialist** passionate about buildi
 
 #### **RAG System for Grounded Document QA**
 *Python, FastAPI, GCP, Vector DB*
-- Built retrieval-augmented GenAI system reducing hallucinations by ~36%
-- Designed end-to-end pipelines with retrieval confidence thresholds
-- Improved answer faithfulness through citation-backed RAG
+
+<!-- Confidential: Implementation details and code cannot be shared publicly due to proprietary constraints. -->
 
 #### **LLM Inference & Serving Optimization**
 *Python, C++, PyTorch, Terraform*
