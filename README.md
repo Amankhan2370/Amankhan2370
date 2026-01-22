@@ -66,7 +66,7 @@ I'm an **Applied LLM Engineer** and **MLOps Specialist** passionate about buildi
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amankhan2370&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7E3ACE&icon_color=7E3ACE"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amankhan2370&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&bg_color=0D1117&title_color=7E3ACE&icon_color=7E3ACE"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amankhan2370&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7E3ACE"/>
   
 </div>
