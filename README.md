@@ -1,28 +1,26 @@
 <div align="center">
   
-  # Aman Khan
-  
-  [![Profile Views](https://komarev.com/ghpvc/?username=Amankhan2370&color=blueviolet&style=for-the-badge)](https://github.com/Amankhan2370)
+  <h1 style="font-size: 3.5em; font-weight: 600; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif; margin: 0.5em 0;">Aman Khan</h1>
   
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I'm an **Applied LLM Engineer** and **MLOps Specialist** passionate about building production-grade AI systems that solve real-world problems. Currently working at **Balanx-Bio**, where I'm reducing hallucinations in healthcare AI by 38% through advanced RAG pipelines and evaluation frameworks.
 
-- 🔭 **Currently working on:** Production LLM systems with Pinecone, LoRA RAG pipelines, and MLflow evaluation frameworks
-- 🌱 **Currently learning:** Advanced LLM optimization, multi-modal AI systems, and scalable inference architectures
-- 👯 **Looking to collaborate on:** Open-source LLM projects, RAG systems, and MLOps tooling
-- 🤔 **Looking for help with:** Distributed training optimization and large-scale vector database architectures
-- 💬 **Ask me about:** LLM serving, RAG systems, MLOps, production ML pipelines, and hallucination mitigation
-- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/amankhan27) | amankhanwork27@gmail.com
-- ⚡ **Fun fact:** I've optimized LLM inference pipelines to handle 1200+ QPS while reducing latency by 30% 🚀
+- **Currently working on:** Production LLM systems with Pinecone, LoRA RAG pipelines, and MLflow evaluation frameworks
+- **Currently learning:** Advanced LLM optimization, multi-modal AI systems, and scalable inference architectures
+- **Looking to collaborate on:** Open-source LLM projects, RAG systems, and MLOps tooling
+- **Looking for help with:** Distributed training optimization and large-scale vector database architectures
+- **Ask me about:** LLM serving, RAG systems, MLOps, production ML pipelines, and hallucination mitigation
+- **How to reach me:** [LinkedIn](https://www.linkedin.com/in/amankhan27) | amankhanwork27@gmail.com
+- **Fun fact:** I've optimized LLM inference pipelines to handle 1200+ QPS while reducing latency by 30%
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 #### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -64,7 +62,7 @@ I'm an **Applied LLM Engineer** and **MLOps Specialist** passionate about buildi
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   
@@ -87,21 +85,21 @@ I'm an **Applied LLM Engineer** and **MLOps Specialist** passionate about buildi
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-#### 🔬 **RAG System for Grounded Document QA**
+#### **RAG System for Grounded Document QA**
 *Python, FastAPI, GCP, Vector DB*
 - Built retrieval-augmented GenAI system reducing hallucinations by ~36%
 - Designed end-to-end pipelines with retrieval confidence thresholds
 - Improved answer faithfulness through citation-backed RAG
 
-#### ⚡ **LLM Inference & Serving Optimization**
+#### **LLM Inference & Serving Optimization**
 *Python, C++, PyTorch, Terraform*
 - Reduced inference latency from 500ms to 350ms (30% improvement)
 - Optimized memory footprint by 30-40% through dynamic batching
 - Sustained 1200+ QPS with high-throughput model serving
 
-#### 🎯 **LLM Evaluation & Hallucination Detection Framework**
+#### **LLM Evaluation & Hallucination Detection Framework**
 *Python, LLMs, RAG, Evaluation Pipelines*
 - Automated evaluation framework for hallucination detection
 - Reduced hallucinated responses by ~38%
@@ -109,7 +107,7 @@ I'm an **Applied LLM Engineer** and **MLOps Specialist** passionate about buildi
 
 ---
 
-### 💼 Professional Experience
+### Professional Experience
 
 #### **Applied LLM Engineer** @ Balanx-Bio | *Jan 2026 – Present*
 - Built Pinecone and LoRA RAG pipelines, reducing hallucinations 38%
@@ -128,22 +126,22 @@ I'm an **Applied LLM Engineer** and **MLOps Specialist** passionate about buildi
 
 ---
 
-### 🎓 Education
+### Education
 
 - **Master of Science in Computer Science** | Northeastern University | *2024 - 2026*
 - **Bachelor of Engineering in Computer Science** | Osmania University | *2020 - 2024*
 
 ---
 
-### 🏆 Achievements & Leadership
+### Achievements & Leadership
 
-- 🎓 **Teaching Assistant** - Cloud Computing @ Northeastern University
-- 🔬 **Research Team Lead** - Synthetic AI Detection (98% accuracy)
-- 👥 **Chief Organizer** - Google Developer Groups @ MJCET (3x growth)
+- **Teaching Assistant** - Cloud Computing @ Northeastern University
+- **Research Team Lead** - Synthetic AI Detection (98% accuracy)
+- **Chief Organizer** - Google Developer Groups @ MJCET (3x growth)
 
 ---
 
-### 📈 Key Skills
+### Key Skills
 
 - **LLM Engineering:** RAG, Prompt Engineering, LoRA/PEFT, Hallucination Mitigation
 - **MLOps:** MLflow, Kubernetes, CI/CD, Model Monitoring, Production Pipelines
@@ -152,7 +150,7 @@ I'm an **Applied LLM Engineer** and **MLOps Specialist** passionate about buildi
 
 ---
 
-### 🤝 Connect With Me
+### Connect With Me
 
 <div align="center">
   
@@ -164,7 +162,7 @@ I'm an **Applied LLM Engineer** and **MLOps Specialist** passionate about buildi
 
 ---
 
-### 💻 Coding Activity
+### Coding Activity
 
 <div align="center">
   
@@ -176,7 +174,7 @@ I'm an **Applied LLM Engineer** and **MLOps Specialist** passionate about buildi
 
 <div align="center">
   
-  ### ⚡ Quick Stats
+  ### Quick Stats
   
   ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Amankhan2370&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
   
@@ -186,8 +184,8 @@ I'm an **Applied LLM Engineer** and **MLOps Specialist** passionate about buildi
 
 <div align="center">
   
-  **"Building AI systems that work in production, not just in demos."** 🚀
+  **"Building AI systems that work in production, not just in demos."**
   
-  ⭐️ From [Amankhan2370](https://github.com/Amankhan2370)
+  From [Amankhan2370](https://github.com/Amankhan2370)
   
 </div>
