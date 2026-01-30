@@ -118,7 +118,7 @@ I'm an **Applied LLM Engineer** and **MLOps Specialist** passionate about buildi
 - Sustained high-concurrency traffic at 1200 QPS
 - Increased response accuracy by 14% and eliminated timeout failures
 
-#### **MLOps Engineer** @ Mag Technologies | *May 2022 – Aug 2024*
+#### **MLOps Engineer** @ Tessco LLC| *May 2022 – Aug 2024*
 - Deployed Kubernetes-hosted ML models, enabling 3x adoption growth
 - Built MLflow pipelines reducing manual release effort by 42%
 - Reduced failure incidents by 37% through production monitoring
